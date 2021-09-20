@@ -18,6 +18,27 @@ for (var i = 0; i < textoArray.length; i++) {
   textoFinal += "</p>";
 }
 
+var textoListaArray = obj.diversidadeNaPratica.textoLista;
+var textoListaFinal = "";
+
+for (var i = 0; i < textoListaArray.length; i++) {
+  textoListaFinal += "<li ";
+  textoListaFinal +=
+    'style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0px 50px;">';
+  textoListaFinal += '<p id="pBranco"';
+  textoListaFinal += os.EOL;
+  textoListaFinal +=
+    "style=\"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; text-align: justify; padding-left: 20px; padding-right: 20px; font-size: 16px; font-family: 'Open Sans', sans-serif; margin: 25px 0px 20px; color: white;\">";
+  textoListaFinal += os.EOL;
+  textoListaFinal += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
+  textoListaFinal += textoListaArray[i];
+  textoListaFinal += "<br>";
+  textoListaFinal += os.EOL;
+  textoListaFinal += "</p>";
+  textoListaFinal += os.EOL;
+  textoListaFinal += "</li>";
+}
+
 export var htmlDiversidadeNaPratica =
   "<!-- BEGIN #DIVERSIDADENAPRÁTICA // -->" +
   os.EOL +
@@ -73,47 +94,7 @@ export var htmlDiversidadeNaPratica =
   os.EOL +
   '<ul style="color: white;">' +
   os.EOL +
-  "<li" +
-  os.EOL +
-  'style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0px 50px;">' +
-  os.EOL +
-  '<p id="pBranco"' +
-  os.EOL +
-  "style=\"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; text-align: justify; padding-left: 20px; padding-right: 20px; font-size: 16px; font-family: 'Open Sans', sans-serif; margin: 25px 0px 20px; color: white;\">" +
-  os.EOL +
-  obj.diversidadeNaPratica.textoLista +
-  os.EOL +
-  "</p>" +
-  os.EOL +
-  "</li>" +
-  os.EOL +
-  "<li" +
-  os.EOL +
-  'style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0px 50px;">' +
-  os.EOL +
-  '<p id="pBranco"' +
-  os.EOL +
-  "style=\"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; text-align: justify; padding-left: 20px; padding-right: 20px; font-size: 16px; font-family: 'Open Sans', sans-serif; margin: 25px 0px 20px; color: white;\">" +
-  os.EOL +
-  obj.diversidadeNaPratica.textoLista +
-  os.EOL +
-  "</p>" +
-  os.EOL +
-  "</li>" +
-  os.EOL +
-  "<li" +
-  os.EOL +
-  'style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0px 50px;">' +
-  os.EOL +
-  '<p id="pBranco"' +
-  os.EOL +
-  "style=\"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; text-align: justify; padding-left: 20px; padding-right: 20px; font-size: 16px; font-family: 'Open Sans', sans-serif; margin: 25px 0px 20px; color: white;\">" +
-  os.EOL +
-  obj.diversidadeNaPratica.textoLista +
-  os.EOL +
-  "</p>" +
-  os.EOL +
-  "</li>" +
+  textoListaFinal +
   os.EOL +
   "</ul>" +
   os.EOL +

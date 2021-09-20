@@ -1,24 +1,20 @@
 {
-  "previa": "Prévia JSON",
+  "previa": "Já anota na agenda: 5 de outubro, às 17h30, uma grande oportunidade de captar investimento e se conectar com uma das big four consultorias do mundo.",
   "artigoDestaque": {
     "numeroEdicao": "6",
     "mensagemSpam": "Não queremos ir para o spam! =( selecione este email como “confiável” ou mova-o para a Caixa de Entrada.",
     "img": "./img/Imagem_Destaque.png",
-    "alt": "Mulher olhando para o espelho",
-    "titulo": "Usando a lente de gênero para se olhar no espelho",
+    "alt": "MAGEM Abertura da Chamada WE Impact + KPMG",
+    "titulo": "Guarde esta data: 5 de outubro de 2021",
     "texto": [
-      "A lente de gênero tem sido cada vez mais utilizada por investidores da América Latina, e eles já entenderam que essa não se trata apenas de mais uma tendência. O relatório “Catalisando a Igualdade”, lançado recentemente pela Value For Women em parceria com o Programa Ganha-Ganha da ONU Mulheres, e do qual tive a oportunidade de participar, mostrou que 59% dos veículos de investimento entrevistados contam com alguma estratégia voltada a gênero, enquanto outros 34% estão no processo de desenvolvê-las. Além disso, quase metade (48%) oferece fundos específicos para empresas lideradas por mulheres ou que promovam de alguma forma a igualdade de gênero.",
-      "A lente de gênero está no “S” de ESG: a vertente social do conceito que chama empresas à responsabilidade pelas transformações necessárias na sociedade e vem ditando as regras de boas práticas de mercado em todo o mundo. Na minha opinião, um dos meios mais eficientes para promover tais transformações é dando o exemplo positivo. E é justamente nisso que muitos investidores ainda podem e precisam melhorar.",
-      "Apesar das crescentes iniciativas que utilizam lentes de gênero na busca de novos ativos, o mesmo relatório mostra que mulheres representam apenas 37% dos cargos de decisão sênior, só um terço (34%) dos comitês de conselho e investimento e pouco mais de um terço (37%) dos cargos executivos entre as empresas pesquisadas.",
-      "Mesmo reconhecendo que a presença de investidoras e diversidade dentro dos fundos de investimento é um ingrediente-chave para o avanço nessa agenda, apenas uma pequena parte deles realiza ações específicas para promover as mulheres internamente, a níveis de liderança e tomada de decisões.",
-      "Quando começamos o nosso trabalho de apoio a startups fundadas por mulheres aqui no Brasil, não tínhamos dados como esses - e nem mesmo que mostrassem a participação feminina no mercado de tecnologia. Felizmente, a quantidade e a qualidade de estudos e mapeamentos realizados por aqui está crescendo com bastante rapidez, o que nos ajuda a entender melhor o estado da arte desse ecossistema no que diz respeito a gênero.",
-      "No fim do dia, faltam modelos positivos e vozes femininas para levar a expansão do investimento com lente de gênero a um novo patamar. Estruturas de classe, machismo e privilégio ainda dificultam uma mudança sistêmica nos fundos, e isso também se reflete na falta de profundidade de muitas daquelas iniciativas voltadas para os seus portfólios.",
-      "Quando se investe em negócios liderados por mulheres, é preciso também apoiá-los, e não esperar que tenham impacto somente porque há liderança feminina. Não se pode esperar apenas investir o dinheiro e ter uma transformação mágica. Temos a responsabilidade de dar suporte ao seu desenvolvimento - e não simplesmente dizer ‘procuramos e não encontramos nada que atendesse aos critérios’.",
-      "Para os que começaram o movimento, é hora não só de olhar-se no espelho e colocar em prática o que pregam para as startups que buscam, mas também de dar o próximo passo: estabelecer metas específicas de negócios liderados por mulheres no portfólio (41% já possuem), incorporar essa lente no processo de due diligence (41%), apoiar as startups já investidas a aplicá-la em seus modelos de negócios (34%), e observar, além da participação feminina, 1) como promovem igualdade de gênero na sua cadeia de abastecimento e 2) se consideram as necessidades de mulheres e meninas em suas soluções.",
-      "Nós, investidoras e investidores, precisamos construir essa mudança."
+      "Lembra que na WE Impact News #4 anunciamos o investimento de R$ 1 milhão da KPMG na WE Impact? Chegou a hora de destinar esse capital a startups fundadas e lideradas por mulheres!",
+      "No dia <strong>5 de outubro</strong>, abriremos a primeira <strong>chamada WE Impact + KPMG</strong> em um evento online, aberto ao público - e convidamos você a aproveitar essa grande oportunidade (<u>e também compartilhá-la com a sua rede de contatos!</u>).",
+      "Além do investimento financeiro, se tornar uma investida WE Impact significará ter conexão direta com <strong>uma das maiores empresas de auditoria e consultoria do mundo</strong> (e seus especialistas) para desenvolver seu produto e fechar negócios.",
+      "Para potencializar essa conexão, buscaremos startups que tenham <strong>sinergia</strong> com a KPMG, com as seguintes características:",
+      "AAAAAAAAAAAAA ADICIONAR LISTA !!!"
     ],
-    "linkBotao": "https://revistapegn.globo.com/Mulheres-empreendedoras/noticia/2021/07/we-impact-venture-builder-focada-em-startups-lideradas-por-mulheres-recebe-aporte-de-r-1-milhao-da-kpmg.html",
-    "botao": "botao JSON"
+    "linkBotao": "https://conteudo.weimpact.tech/abertura-chamada-kpmg",
+    "botao": "Quero participar"
   },
   "compartilhe": {
     "texto": [
@@ -28,30 +24,37 @@
   },
   "weImpactNetwork": {
     "tituloSecao": "#WIN – WE Impact Network",
-    "titulo": "Título JSON",
+    "titulo": "Networking: a importância das conexões para o empreendedorismo",
     "img": "./img/Foto_WIN.png",
-    "alt": "alt",
+    "alt": "FOTO Laís Macedo, Lide Futuro",
     "linkedinAutora": "https://br.linkedin.com/in/naravazguimaraes",
     "nomeAutora": "Nome JSON",
     "descricaoAutora": "descrição JSON",
-    "texto": "texto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSON",
+    "texto": [
+      "O networking é uma ferramenta essencial para quem deseja trabalhar o marketing pessoal, ter acesso a oportunidades, informações e construir uma rede de apoio durante sua jornada empreendedora.",
+      "Mesmo conhecendo seus inúmeros benefícios, muitas pessoas ainda possuem dificuldade em fazer contatos e gerir sua rede.",
+      "Por isso, convidamos a presidente do LIDE Futuro (grupo de networking de empreendedores e líderes), Laís Macedo, para compartilhar dicas valiosas que vão te ajudar durante esse processo - incluindo como lidar com a síndrome da impostora e outros obstáculos enfrentados por mulheres na hora de fazer netowrking."
+    ],
     "tituloLista": "título lista JSON",
     "textoLista": "texto lista JSON",
-    "linkBotao": "https://www.weimpact.tech/modelo-de-vendas-para-sua-startup/",
-    "botao": "botao JSON"
+    "linkBotao": "https://www.weimpact.tech/networking-importancia-das-conexoes",
+    "botao": "Clique para ler a entrevista"
   },
   "diversidadeNaPratica": {
     "tituloSecao": "#DiversidadenaPrática",
     "titulo": "Título JSON",
-    "img": "https://weimpact-tech.github.io/newsletter-4/img/Imagem_DiversidadenaPratica_N04.png",
+    "img": "./img/Imagem_DiversidadenaPratica_N06.png",
     "alt": "alt",
     "texto": [
-      "Contratar mais mulheres e pessoas diversas é um dos caminhos para promover a diversidade nas empresas - não o único. É natural que se pense primeiro no time: comprovadamente, construir times mais diversos é um fator fundamental para alcançar esse objetivo. O segredo é não parar por aí.",
-      "Pensa bem... Pessoas são o centro de qualquer organização. E sabe quem mais também são pessoas, além das que trabalham na sua empresa? Seus fornecedores. Seus clientes. Seus parceiros. Você pensa em diversidade na hora de tomar decisões nessas outras áreas? Observa a representatividade feminina e práticas internas ligadas a gênero entre prestadores de serviços que contrata? E na hora de criar e validar sua solução, consultou mulheres e/ou pessoas totalmente diferentes de você?",
-      "A diversidade pode e deve estar presente em toda a jornada de uma startup. Isso é o que propõe o conceito “diversidade by design”. Se você já conhece a nossa cartilha, sabe do que estamos falando. Se não, ainda dá tempo de fazer o download e aprender sobre os inúmeros mecanismos existentes para aplicar a #diversidadenaprática."
+      "Analisando 100 fundos de Venture Capital nos EUA, o relatório Diversity in U.S. Startups 2020 mostrou que os avanços em tornar essas empresas mais diversas no país não foram tantos quando gostaríamos nos últimos 8 anos.",
+      "A partir do estudo de mais de 3 mil empresas e cerca de 7,7 mil fundadores que participaram de mais de 4 mil rodadas, aqui estão alguns números levantados:"
     ],
     "tituloLista": "título lista JSON",
-    "textoLista": "texto lista JSON",
+    "textoLista": [
+      "A proporção de empresas fundadas somente por mulheres se manteve em torno de <strong>6%</strong> desde 2013 até 2019",
+      "Só <strong>3%</strong> das companhias avaliadas tinham pelo menos <strong>1 fundador negro<strong>, e apenas 1.7% do total dos fundadores eram negros – sendo a <strong>maioria homens</strong> (85%)",
+      "    E pouco mais de <strong>3%<strong> tinham pelo menos 1 fundador latino, com 1,3% de todos os fundadores se encaixando nesse grupo, no qual a <strong>participação feminina não chega a 7%</strong>"
+    ],
     "linkBotao": "https://www.weimpact.tech/modelo-de-vendas-para-sua-startup/",
     "botao": "botao JSON"
   },
@@ -59,43 +62,42 @@
     "tituloSecao": "#DicadaCEO",
     "titulo": "Título JSON",
     "img": "./img/Foto_DicadaCEO.png",
-    "alt": "Camila Nasser, CEO da Kria",
+    "alt": "FOTO Juliana Innecco, Head de Inovação do Torq Labs",
     "texto": [
-      "“O Venture Capital está passando por um momento de altíssima liquidez, com entrada de um maior e mais diverso mix de capitais em busca de investir no próximo grande negócio. Isso faz com que as rodadas de investimento sejam mais rápidas e o volume investido, maior. Como retratado pelo investidor Mark Suster, antes os fundos tinham tempo para acompanhar a evolução do negócio (e o seu product market fit) antes de investir. Hoje, o founder-market-fit é o novo product-market-fit: a força das tomadas de decisão está em investir na pessoa certa.",
-      "Com esse novo contexto, um futuro mais diverso no Venture Capital dependerá da capacidade dos investidores de encararem e trabalharem seus vieses inconscientes, e se abrirem para pessoas de fora de suas redes de contato.\""
+      "/“A inovação aberta tem como princípio a conexão entre players do ecossistema. Quando uma grande corporação estabelece sua estratégia de open innovation, procura no ecossistema experiências e soluções que complementam seus produtos e/ou que atacam oportunidades que ela enxerga no mercado. Ao se conectar com uma startup, a empresa consegue ter um time to market mais rápido, pivotar de forma mais ágil - se necessário - e ter um ganho importante de fomento à cultura de inovação interna.",
+      "A startup, por sua vez, desfruta do smart money, da experiência da grande corporação, do conhecimento de mercado, da tecnologia e da possibilidade de distribuição de seu produto. Essas conexões podem ajudar a startup a ganhar escala, fechar novos negócios e também atrair novos(as) investidores(as) para rodadas de captação./”"
     ],
-    "linkedinAutora": "https://www.linkedin.com/in/camila-nasser?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABTkQ7EBGlK4UmO3ufkVb6O6nSlmtCIhOYs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B5nOHnnLlSNKcMRYlnT9hUw%3D%3D",
-    "nomeAutora": "Camila Nasser",
-    "descricaoAutora": "CEO da Kria"
+    "linkedinAutora": "https://www.linkedin.com/in/juliana-innecco/",
+    "nomeAutora": " Juliana Innecco",
+    "descricaoAutora": "Head de Inovação do Torq Labs e Dealflow Leader na Sinqia"
   },
   "elasImpactam": {
     "tituloSecao": "#ElasImpactam",
     "img": "./img/Imagem_ElasImpactam_N06.png",
-    "alt": "alt",
+    "alt": "FOTO Luiza Trajano",
     "texto": [
-      "“Eu amava estar à frente das mídias sociais da companhia, mas não gostava de ser a única mulher em todas as salas de reunião. Queria incentivar empreendedoras a começarem negócios. Mas como poderia encorajá-las se eu mesma não fizesse isso?”. Essa foi a motivação de Randi Zuckerberg, irmã do fundador do Facebook, para criar sua própria empresa em 2011.",
-      "Com produções para a televisão e empresas, a Zuckerberg Media promove o aumento da presença feminina em vários setores. No caso da animação infantil “Dot”, a ideia é inserir o interesse pela tecnologia nos primeiros anos de vida das meninas – de acordo com pesquisas da executiva, elas começam a se afastar dessa área antes mesmo dos nove anos.",
-      "Randi também afirma que agora é uma ótima hora para entrar em setores como cripto, machine learning e realidade virtual. “E se, em vez de tentarmos alcançar uma indústria já dominada pelos homens, entrarmos em outras que ainda são novas e não estão tomadas por eles?”, ela sugere.",
-      "Fonte: Forbes Brasil"
+      "Luiza Helena Trajano, a fundadora, presidente do conselho de administração e principal acionista da Magazine Luiza (que, na verdade, dispensa apresentações), é a única brasileira na lista de 100 mais influentes de 2021 da TIME.",
+      "A empresária está entre os destaques da categoria 'Titãs', que reúne profissionais que são referência em seus campos de atuação. Ao seu lado, estão nomes como a ginasta americana Simone Biles, a autora Shonda Rimes e o presidente-executivo da Apple, Tim Cook.",
+      "Entre outros feitos, a revista cita a iniciativa da Magazine Luiza em ajudar pequenas empresas a se adaptarem ao comércio digital no auge da pandemia do coronavírus, e a liderança de Luiza no Grupo Mulheres do Brasil, um de seus esforços para construir um Brasil melhor. Nosso país não poderia estar melhor representado, não é mesmo?"
     ],
     "textoLista": "texto lista JSON"
   },
   "naMidia": {
     "tituloSecao": "#NaMídia",
     "img": "https://weimpact-tech.github.io/newsletter-5/img/Imagem_NasMidias_N05.png",
-    "alt": "Investidores sentados em uma mesa",
-    "titulo": "<strong>De mulher para mulher: investidoras fortalecem ecossistema para empresárias</strong>",
-    "texto": "“Uma mulher puxa a outra para o topo - e então puxa outra e por aí vai.”, assim começa a matéria do Broadcast, do Estadão, que fala sobre a importância de mulheres investidoras para o aumento do investimento em empresas com liderança feminina. Nossa CEO, Lícia Souza, foi uma das entrevistadas!",
-    "linkBotao": "http://www.broadcast.com.br/cadernos/financeiro/?id=bGw1THRCY21XZlo3N2ZRVVBSMTV1Zz09",
-    "botao": "Leia a matéria"
+    "alt": "IMAGEM post",
+    "titulo": "Perdeu esse conteúdo?",
+    "texto": "Se você tem dificuldade de separar a vida pessoal do horário de trabalho no home office, você não está sozinha(o) - 40% dos brasileiros compartilham esse desafio com você. No nosso Instagram, compartilhamos um checklist que pode te ajudar a “desconectar” após o expediente.",
+    "linkBotao": "https://www.instagram.com/p/CTX8tUUPjE1/",
+    "botao": "Clique para conferir"
   },
   "nasRedes": {
     "tituloSecao": "#NasRedes",
     "img": "./img/NaRede_N06.png",
-    "alt": "Frase “como criar uma startup, empreendendo do zero”",
+    "alt": "IMAGEM post",
     "titulo": "Perdeu esse conteúdo?",
-    "texto": "Como criar uma startup do zero? Tem artigo no nosso blog sobre esse tema. E também registramos alguns questionamentos super importantes para o momento de começar a empreender em tecnologia nesse post no Instagram. Como criar uma startup do zero? Tem artigo no nosso blog sobre esse tema. E também registramos alguns questionamentos super importantes para o momento de começar a empreender em tecnologia nesse post no Instagram.",
-    "linkBotao": "https://www.instagram.com/p/CSsV1z4HzqJ/",
+    "texto": "Se você tem dificuldade de separar a vida pessoal do horário de trabalho no home office, você não está sozinha(o) - 40% dos brasileiros compartilham esse desafio com você. No nosso Instagram, compartilhamos um checklist que pode te ajudar a “desconectar” após o expediente.",
+    "linkBotao": "https://www.instagram.com/p/CTX8tUUPjE1/",
     "botao": "Clique para conferir"
   },
   "saveTheDate": {
